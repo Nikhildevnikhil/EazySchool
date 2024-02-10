@@ -8,6 +8,6 @@ FROM openjdk:17-jdk-slim
 
 MAINTAINER Nikhil Deo
 
-COPY target/eazyschool-aws-deployment.jar eazyschool-aws-deployment.jar
+COPY --from=build /target/eazyschool-aws-deployment.jar eazyschool.jar
 
-ENTRYPOINT ["java","-jar","eazyschool-aws-deployment.jar"]
+ENTRYPOINT ["java","-jar","eazyschool.jar"]
