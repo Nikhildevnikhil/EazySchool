@@ -1,6 +1,3 @@
-Below is an example of a README file for the EazySchool project hosted on GitHub:
-
----
 
 # EazySchool
 
