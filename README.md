@@ -64,11 +64,3 @@ Contributions are welcome! If you find any bugs or have suggestions for new feat
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Special thanks to [Nikhildevnikhil](https://github.com/Nikhildevnikhil) for initiating and developing this project.
-- Thanks to all contributors who helped improve and enhance EazySchool.
-
----
-
-This README assumes familiarity with Spring Boot and provides instructions tailored to building and running a Spring Boot application. Adjust the instructions as necessary based on your project's specifics.
